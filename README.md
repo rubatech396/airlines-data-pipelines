@@ -52,7 +52,6 @@ airlines-data-pipelines/
 ├── Airlines.py
 ├── dashboard.py
 ├── requirements.txt
-├── .gitignore
 └── README.md
 
 Original airline datasets and passenger personal information are not included in this public repository.
